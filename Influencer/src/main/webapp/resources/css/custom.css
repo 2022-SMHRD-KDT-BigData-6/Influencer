@@ -1104,31 +1104,28 @@ input.button.fit.boder_update_btn {
 
 
 textarea#txt {
-    position: relative;
-    width: 550%;
-    left: 36%;
+   position: relative;
+    width: 1350px;
+    
 }
 
 
 button.btn-sm.btn-danger.btn {
-    position: relative;
-    bottom: 5px;
-    right: 200px;
-    top: 19px;
+    position: absolute;
+    left: 83%;
+    bottom: 5%;
 }
-
+  
 
 button.btn-sm.btn-danger.btn.delete_btn {
-    position: relative;
-    bottom: 11px;
-    top: 33px;
-    left: 176px;
+   	position: sticky;
+    bottom: 2%;
+    left: 24%;
+    
 }
 
 p.comment_p {
-    position: relative;
-    top: 30px;
-    left: 29px;
+   position: absolute;
 }
 
 
