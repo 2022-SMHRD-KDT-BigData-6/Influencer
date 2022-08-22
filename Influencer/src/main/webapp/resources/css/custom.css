@@ -1111,17 +1111,16 @@ textarea#txt {
 
 
 button.btn-sm.btn-danger.btn {
-    position: absolute;
-    left: 83%;
-    bottom: 5%;
+    bottom: -21px;
+    position: relative;
+    right: 100%;
 }
   
 
 button.btn-sm.btn-danger.btn.delete_btn {
    	position: sticky;
     bottom: 2%;
-    left: 24%;
-    
+    left: 7%;
 }
 
 p.comment_p {
